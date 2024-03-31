@@ -1,13 +1,30 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://example.com</id>
+    <id>http://chuchuren.moe</id>
     <title>In solitude, where we are least alone</title>
-    <link href="http://example.com" />
-    <updated>2024-03-31T07:41:43.800Z</updated>
+    <link href="http://chuchuren.moe" />
+    <updated>2024-03-31T12:22:02.000Z</updated>
+    <category term="galgame" />
     <entry>
-        <id>http://example.com/2024/03/31/hello-world/</id>
+        <id>http://chuchuren.moe/2024/03/31/2024-03-31-hello-md/</id>
+        <title>我们终会相遇相知，在那悠远的苍穹</title>
+        <link rel="alternate" href="http://chuchuren.moe/2024/03/31/2024-03-31-hello-md/"/>
+        <content type="html">&lt;p&gt;第一篇文章，穹妹占楼。&lt;/p&gt;
+&lt;p&gt;提起《缘之空》，也算是本人推过的第一部作品了，着实痴迷过一段。&lt;/p&gt;
+&lt;p&gt;事实上穹妹这一角色确实带来了一波妹控狂潮，主要是穹妹实在是太可爱了，加之音乐、画风也都不错，这部作品能够大火也不足为奇了。&lt;/p&gt;
+&lt;p&gt;相比于《实妹相伴的大泉君》中二人选择寄希望于未来，穹妹的结局显然是幸福的，最终能和哥哥在一起，远赴芬兰的故事走向充满浪漫性，令人满足、感叹、艳羡。&lt;/p&gt;
+&lt;p&gt;行文至此，实际上穹妹的回忆于今日之我而言实际上已经多上了一层滤镜：那个浪漫、幸福、可爱的夏天，无论是游戏中还是游戏外，实际上已经成了某种寄托与标志了吧。&lt;/p&gt;
+&lt;p&gt;故事也好，过往也好，总有些美好让人回味与留恋。&lt;/p&gt;
+&lt;p&gt;“我们终会相遇相知，在那悠远的苍穹”&lt;/p&gt;
+&lt;p&gt;——2024.3.29&lt;/p&gt;
+</content>
+        <category term="galgame" />
+        <updated>2024-03-31T12:22:02.000Z</updated>
+    </entry>
+    <entry>
+        <id>http://chuchuren.moe/2024/03/31/hello-world/</id>
         <title>Hello World</title>
-        <link rel="alternate" href="http://example.com/2024/03/31/hello-world/"/>
+        <link rel="alternate" href="http://chuchuren.moe/2024/03/31/hello-world/"/>
         <content type="html">&lt;p&gt;Welcome to &lt;a href=&#34;https://hexo.io/&#34;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&#34;https://hexo.io/docs/&#34;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&#34;https://hexo.io/docs/troubleshooting.html&#34;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&#34;https://github.com/hexojs/hexo/issues&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&#34;quick-start&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#quick-start&#34;&gt;#&lt;/a&gt; Quick Start&lt;/h2&gt;
 &lt;h3 id=&#34;create-a-new-post&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#create-a-new-post&#34;&gt;#&lt;/a&gt; Create a new post&lt;/h3&gt;
